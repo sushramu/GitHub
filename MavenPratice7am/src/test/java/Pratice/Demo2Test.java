@@ -7,8 +7,9 @@ public class Demo2Test {
 	@Test
 	public void m2()
 	{
+		//welcome
 		System.out.println("hello");
-		//test case is pass
+//updated successfully
 	}
 }
 
