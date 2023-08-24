@@ -8,14 +8,8 @@ public class Demo2Test {
 	public void m2()
 	{
 		System.out.println("hello");
+		//test case is pass
 	}
 }
-//pull back
-//1st pull
-//2nd push
-//2nd pull
 
-
-
-//push2
 
