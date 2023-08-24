@@ -7,15 +7,10 @@ public class Demo2Test {
 	@Test
 	public void m2()
 	{
+		//welcome
 		System.out.println("hello");
+		//bye
 	}
 }
-//pull back
-//1st pull
-//2nd push
-//2nd pull
 
-
-
-//push2
 
